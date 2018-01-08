@@ -17,6 +17,10 @@ import main.MDataGernarator;
 public class test {
 public static void main(String[] args){
 System.out.println(MDataGernarator.getBirthday(18, 0, 27));
+<<<<<<< HEAD
   ////
+=======
+  ////\\\\\\
+>>>>>>> refs/remotes/origin/test
 }
 }
