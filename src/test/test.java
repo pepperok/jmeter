@@ -16,6 +16,7 @@ import main.MDataGernarator;
 */
 public class test {
 public static void main(String[] args){
+	//tttttttt
 System.out.println(MDataGernarator.getBirthday(18, 0, 27));
 }
 }
